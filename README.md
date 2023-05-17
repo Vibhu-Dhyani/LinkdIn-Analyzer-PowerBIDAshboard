@@ -70,7 +70,7 @@ This project depicts end-to-end scenario of data collection > cleansing > visual
 ![Personal Info - Dark Mode](https://github.com/Vibhu-Dhyani/LinkdIn-Analyzer-PowerBIDAshboard/blob/master/linkdIn_analyzer/DashboardImages/Slide%2016_9%20-%205.png)
 
 
-![Job Details - Light Mode](https://github.com/Vibhu-Dhyani/LinkdIn-Analyzer-PowerBIDAshboard/blob/master/linkdIn_analyzer/DashboardImages/Slide%2016_9%20-%205.png)
+![Job Details - Light Mode](https://github.com/Vibhu-Dhyani/LinkdIn-Analyzer-PowerBIDAshboard/blob/master/linkdIn_analyzer/DashboardImages/Slide%2016_9%20-%203.png)
 
 
 ![Job Details - Light Mode - Filter Pannel](https://github.com/Vibhu-Dhyani/LinkdIn-Analyzer-PowerBIDAshboard/blob/master/linkdIn_analyzer/DashboardImages/Slide%2016_9%20-%204.png)
