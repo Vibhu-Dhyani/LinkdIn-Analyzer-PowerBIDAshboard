@@ -1,5 +1,5 @@
 
-# LindIn Analyzer (End-to-End Project)
+# LinkedIn Analyzer (End-to-End Project)
 
 This project depicts end-to-end scenario of data collection > cleansing > visualization.
 
